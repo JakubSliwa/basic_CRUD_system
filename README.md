@@ -4,7 +4,7 @@ This is the first version of my CRUD application. Thanks to it I learned how to 
 Also I understood how works simple desing pattern -> Active Record.
 
 Database schema:
-![](/home/js/eclipse-workspace/School/sys-school/img/3.jpg)
+![Alt text](https://imgur.com/a/1oiC7)
 
 Demo:
 ![](/home/js/eclipse-workspace/School/sys-school/img/1)
